@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1 {
+    margin: 50px auto 0 auto;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px; /* you can also use : 16px = 100% = 1em */
+    color: #66BFBF;
+    
+}
+
+h2 {
+    font-family:'Montserrat', sans-serif;
+    font-size: 40px; 
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    top: 0;
+
+}
+
+    .bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    }
+
+    .top-cloud {
+        position: absolute;
+        right: 300px;
+        top: 50px;
+    }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+    
+.footer-link {
+    color: #11999E;
+}
+
